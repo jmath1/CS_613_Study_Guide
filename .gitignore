@@ -7,6 +7,7 @@
 # Allow TeX and PDF files anywhere
 !*.tex
 !*.pdf
+!*.py
 
 # Keep this .gitignore tracked
 !.gitignore
