@@ -1,4 +1,4 @@
-# CS 613 — Final Study Guide
+# CS 613 — Final Exam Study Guide
 
 This repository collects notes, derivations, and examples of machine learning concepts for the final exam of Drexel University's CS 613 Machine Learning class.
 
