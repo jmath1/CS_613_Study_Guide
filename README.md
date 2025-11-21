@@ -4,12 +4,12 @@ This repository collects notes, derivations, and examples of machine learning co
 
 ## Topics (by area)
 
-[x] Dimensionality and PCA
-[x] Linear Regression
-[x] Gradient Learning
-[ ] Logistic Regression
-[ ] Support Vector Machines
-[ ] Decision Trees
-[ ] K-Nearest Neighbors
-[ ] Statistical Classification (Naive Bayes)
-[ ] Ensembles
+- [x] Dimensionality and PCA
+- [x] Linear Regression
+- [x] Gradient Learning
+- [ ] Logistic Regression
+- [ ] Support Vector Machines
+- [ ] Decision Trees
+- [ ] K-Nearest Neighbors
+- [ ] Statistical Classification (Naive Bayes)
+- [ ] Ensembles
