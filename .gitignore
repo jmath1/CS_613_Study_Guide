@@ -1,13 +1,8 @@
 # Ignore everything by default
 *
-
-# Allow directories so Git can traverse into subfolders
-!*/
-
-# Allow TeX and PDF files anywhere
+# But not these file types
 !*.tex
 !*.pdf
 !*.py
-
-# Keep this .gitignore tracked
 !.gitignore
+!README.md
