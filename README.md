@@ -2,7 +2,7 @@
 
 This repository collects notes, derivations, and examples of machine learning concepts for the final exam of Drexel University's CS 613 Machine Learning class.
 
-## Topics (by area)
+## Topics
 
 - [x] Dimensionality and PCA
 - [x] Linear Regression
