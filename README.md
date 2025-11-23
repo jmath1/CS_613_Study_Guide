@@ -7,7 +7,8 @@ This repository collects notes, derivations, and examples of machine learning co
 - [x] Dimensionality and PCA
 - [x] Linear Regression
 - [x] Gradient Learning
-- [ ] Logistic Regression
+- [x] Logistic Regression
+- [ ] Logistic Regression Derivations
 - [ ] Support Vector Machines
 - [ ] Decision Trees
 - [ ] K-Nearest Neighbors
