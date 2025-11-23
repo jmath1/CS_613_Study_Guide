@@ -1,6 +1,8 @@
 # Ignore everything by default
 *
-# But not these file types
+# But allow traversing into directories
+!*/
+# Track these file types (anywhere) and these filenames
 !*.tex
 !*.pdf
 !*.py
