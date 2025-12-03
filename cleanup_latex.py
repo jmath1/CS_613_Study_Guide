@@ -15,7 +15,7 @@ for dirpath, dirnames, filenames in os.walk(root, topdown=True):
             continue
 
         # keep important files
-        if fname.endswith(('.tex', '.pdf', '.py', '.md')) or fname == '.gitignore':
+        if fname.endswith(('.tex', '.pdf', '.py', '.md', '.png')) or fname == '.gitignore':
             continue
 
         try:
